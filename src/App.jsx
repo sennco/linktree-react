@@ -9,7 +9,6 @@ import Footerr from "./components/footer/Footerr";
 
 function App() {
   return (
-    <>
       <div className="flex flex-col align-middle h-screen bg-background bg-cover">
       <Header />
       <Nav/>
@@ -18,7 +17,6 @@ function App() {
       <Insta/>
       <Footerr/>
       </div>
-    </>
   );
 }
 
