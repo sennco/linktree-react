@@ -3,9 +3,6 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      backgroundImage: {
-        background: "url('./public/assets/Background.png')",
-      },
       fontFamily: {
         sans: ["Montserrat", "sans-serif"],
       },
