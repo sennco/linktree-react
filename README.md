@@ -1,8 +1,3 @@
-# React + Vite
+Projeto React com Vite e Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este repositório contém um projeto React criado com Vite e Tailwind CSS, inspirado no design do Linktree. O objetivo deste projeto é fornecer uma interface simples e elegante para compartilhar links.
