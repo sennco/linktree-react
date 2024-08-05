@@ -10,7 +10,7 @@ import Footerr from "./components/footer/Footerr";
 function App() {
   return (
     <>
-      <div className="flex flex-col align-middle h-screen bg-[url('./src/assets/Background.jpg')] bg-cover">
+      <div className="flex flex-col align-middle h-screen bg-background bg-cover">
       <Header />
       <Nav/>
       <Github/>
