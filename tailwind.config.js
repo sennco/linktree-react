@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        background: "url('./public/assets/Background.jpg')",
+        background: "url('./public/assets/Background.jpeg')",
       },
       fontFamily: {
         sans: ["Montserrat", "sans-serif"],
