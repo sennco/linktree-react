@@ -4,7 +4,7 @@ const Footerr = () => {
         <h2 className="text-xs">
           Desenvolvido por &nbsp; 
           <a href="https://www.linkedin.com/in/joaohenrique7369151ab/"> 
-             João Senco
+             <strong>João Senco</strong>
           </a>
         </h2>
       </div>
