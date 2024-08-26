@@ -8,8 +8,11 @@ export default {
       },
       colors: {
           smoke: "#F5F5F5",
-          transp:"rgba(245, 245, 245, 0.1);",
-          border:"rgba(245, 245, 245, 0.3);",
+          transp:"rgba(245, 245, 245, 0.1)",
+          border:"rgba(245, 245, 245, 0.3)",
+      },
+      backgroundImage: {
+        'custom-background': "url('/assets/Background.jpg')",
       },
     },
   },
