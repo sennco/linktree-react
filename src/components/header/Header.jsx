@@ -3,7 +3,7 @@ import perfil from '../../assets/perfil.png';
 
 const Header = () => {
   return (
-    <header className="mt-24 items-center flex flex-col">
+    <header className="mt-16 md:mt-24 items-center flex flex-col">
         <img
           className="w-36 h-fit"
           src={perfil}
